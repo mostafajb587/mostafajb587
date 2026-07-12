@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mostafa Jbili
 
-<!--
-**mostafajb587/mostafajb587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Engineer | SOC Analyst
 
-Here are some ideas to get you started:
+Computer Engineer specializing in Cybersecurity with hands-on experience in Blue Team operations, network analysis, security monitoring, and practical cybersecurity labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- SOC Operations Fundamentals
+- Network Traffic Analysis
+- Endpoint Analysis
+- Incident Response Fundamentals
+- Vulnerability Assessment
+- MITRE ATT&CK Framework
+
+## Tools
+
+- Wireshark
+- Snort
+- Splunk
+- pfSense
+- Nmap
+- Metasploit
+- Burp Suite
+- Kali Linux
+
+## Cybersecurity Labs & Projects
+
+- TryHackMe Labs
+- Blue Team Security Labs
+- Red Team Practical Labs
+- Network Security Analysis
+
+## Learning Journey
+
+Currently building practical skills in Security Operations Center (SOC), threat detection, and defensive security.
+
+
